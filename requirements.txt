@@ -1,0 +1,5 @@
+SpeechRecognition
+PyAudio
+xArm-Python-SDK
+fuzzywuzzy
+python-Levenshtein
